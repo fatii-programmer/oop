@@ -38,7 +38,7 @@ Create a New Branch: Work on your feature or fix in a dedicated branch.
 Commit Your Changes: Write clear and descriptive commit messages.
 Push Your Branch: Upload your changes to your fork.
 Submit a Pull Request: Describe your changes and submit for review.
-Join us in making this project even better!
+Join us in making this project even better.
 
 📄 License:
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as long as you include the original license and copyright notice.
