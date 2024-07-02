@@ -31,7 +31,7 @@ No coding experience is needed to get started. Just follow the steps, and you’
 Once you're set up, explore the project to see OOP principles in action! This project is designed to be intuitive and user-friendly, allowing you to learn and understand OOP concepts effortlessly.
 
 🤝 Contributing:
-We love contributions! Here’s how you can help:
+We love contributions! Here’s how you can help.
 
 Fork the Repository: Create your own copy of the project.
 Create a New Branch: Work on your feature or fix in a dedicated branch.
