@@ -47,4 +47,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 We'd love to hear from you! If you have any questions, feedback, or suggestions, reach out to us:
 
 Email: designerfatii@gmail.com
-Thank you for checking out the OOP Project! We hope you enjoy exploring it as much as we enjoyed creating it.
+
